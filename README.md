@@ -1,6 +1,6 @@
 # sql_scripts_assignment4_partA
 ### Step 1 -
-run the script inside create_database.sql file (This script will create the Conference_Review Database).
+run the script inside create_db.sql file (This script will create the Conference_Review Database).
 ### Step2 - 
 run the script inside create_tables.sql file (This script will create the tables named AUTHOR, PAPER, REVIEW, TOPIC and REVIEWER inside the Conference_Review database).
 ### Step 3 - 
